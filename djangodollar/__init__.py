@@ -1,4 +1,4 @@
 from .dollar import Dollar
-from .fields import DollarAmountField
+from .fields import DollarField
 
-__all__ = ("Dollar", "DollarAmountField")
+__all__ = ("Dollar", "DollarField")

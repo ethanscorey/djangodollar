@@ -6,7 +6,7 @@ from django.db import models
 from djangodollar.dollar import Dollar
 
 
-class DollarAmountField(models.DecimalField):
+class DollarField(models.DecimalField):
     """A custom field for representing dollar amounts."""
 
     def __init__(self, *args, **kwargs):
