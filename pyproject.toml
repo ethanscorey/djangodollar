@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "djangodollar"
-version = "0.1.0"
+version = "0.2.0"
 description = "A simple package for working with dollar amounts in Django."
 authors = ["Ethan Corey <ethanscorey@gmail.com>"]
 license = "MIT"
